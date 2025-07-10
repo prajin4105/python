@@ -10,7 +10,7 @@ from telegram.ext import (
 import asyncio
 
 # 🔐 Telegram Bot Token
-TOKEN = "7770383445:AAEXRp1MhAc7oTHS6bsKC3AQsggDpjZB9mA"  # replace with actual bot token
+TOKEN = ""  # replace with actual bot token
 API_URL = "https://gagstock.gleeze.com/grow-a-garden"
 
 # 🛠️ Logging
